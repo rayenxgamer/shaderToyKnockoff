@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/c++  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/src/main.cpp.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/src/main.cpp",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/main.cpp",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/c++  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/window.cpp.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/window.cpp",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/window.cpp",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/window.cpp.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/c++  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/log.cpp.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/log.cpp",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/log.cpp",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/log.cpp.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/c++  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/shader.cpp.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/shader.cpp",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/shader.cpp",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/shader.cpp.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/c++  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/camera.cpp.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/camera.cpp",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx/common/camera.cpp",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/src/gfx/common/camera.cpp.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/cc  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/lib/glad/glad.c.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/lib/glad/glad.c",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib/glad/glad.c",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/lib/glad/glad.c.o"
+},
+{
+  "directory": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/build",
+  "command": "/usr/bin/cc  -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib -I/home/ray/GraphicsProgramming/ShaderToyKnockoff/src/gfx  -o CMakeFiles/ShaderToyKnockoff.dir/lib/stb_image/stb_image.c.o -c /home/ray/GraphicsProgramming/ShaderToyKnockoff/lib/stb_image/stb_image.c",
+  "file": "/home/ray/GraphicsProgramming/ShaderToyKnockoff/lib/stb_image/stb_image.c",
+  "output": "CMakeFiles/ShaderToyKnockoff.dir/lib/stb_image/stb_image.c.o"
+}
+]

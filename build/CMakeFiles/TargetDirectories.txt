@@ -1,0 +1,3 @@
+/home/ray/GraphicsProgramming/ShaderToyKnockoff/build/CMakeFiles/ShaderToyKnockoff.dir
+/home/ray/GraphicsProgramming/ShaderToyKnockoff/build/CMakeFiles/edit_cache.dir
+/home/ray/GraphicsProgramming/ShaderToyKnockoff/build/CMakeFiles/rebuild_cache.dir
